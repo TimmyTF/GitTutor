@@ -1,0 +1,5 @@
+Simple text file.
+
+We've staged this file, but didn't commit it. Now we're gonna change it a bit and see what 'git status' command will tell us.
+
+
