@@ -6,3 +6,5 @@ Now let's see what if we modify this file, stage it, then modify it again(withou
 Ok, modify it again...
 
 Dummy changes.
+
+One more dummy change.
