@@ -4,3 +4,5 @@ We've staged this file, but didn't commit it. Now we're gonna change it a bit an
 
 Now let's see what if we modify this file, stage it, then modify it again(without staging) and then commit it.
 Ok, modify it again...
+
+Dummy changes.
