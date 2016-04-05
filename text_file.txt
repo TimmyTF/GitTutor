@@ -10,3 +10,5 @@ Dummy changes.
 One more dummy change.
 
 And more. We'll use to test merge with branch 'different_style'
+
+This string is the best.
